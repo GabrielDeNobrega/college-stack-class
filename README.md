@@ -13,7 +13,9 @@
 
 ***
 
-# 🌳 Description
+<h1 align="center">
+  🌳 Description 🌳
+</h1>
   
   <h3>
     This is a repository created for me to remember how to use the Stack class in Java.
